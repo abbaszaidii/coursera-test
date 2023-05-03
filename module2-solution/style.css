@@ -5,7 +5,7 @@
 		background-color: white;
 	}
 	h1 {
-		margin: 10px;
+		margin: 20px;
 		text-align: center;
 		font-family: Helvetica;
 		font-weight: bold;
@@ -27,7 +27,7 @@
 		margin-right: auto;
 		margin-bottom: auto;
 	}
-	.s1 {
+	.ch {
 		float: right;
 		width: 100px;
 		padding: 5px;
@@ -39,7 +39,7 @@
 		background-color: tomato;
 		
 	}
-	.s2 {
+	.bf {
 		float: right;
 		color: black;
 		width: 100px;
@@ -52,7 +52,7 @@
 		background-color: red;
 		
 	}
-	.s1 {
+	.su {
 		color: black;
 		float: right;
 		width: 100px;
@@ -65,7 +65,7 @@
 		background-color: yellow;
 		
 	}
-	.content {
+	.cnt {
 		padding: 5px;
 		border: none;
 		background-color: gray;
